@@ -4,17 +4,19 @@ import './Button.css';
 export interface Props {
   children: React.ReactNode;
   onClick: () => void;
-  disabled?: boolean
+  disabled?: boolean;
+  bg: string;
 }
 
 const noop = () => {};
 export const Button = (props: Props) => {
-  const { children, onClick, disabled = false } = props;
+  const { children, onClick, disabled = false, bg } = props;
   const disabledclass = disabled ? 'Button_disabled' : '';
 
   return (
     <div
       className={`Button ${disabledclass}`}
+      style={{backgroundColor: bg}}
       onClick={!disabled ? onClick : noop}
     >
       <span>{children}</span>
