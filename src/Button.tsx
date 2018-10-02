@@ -2,9 +2,17 @@ import * as React from 'react';
 import './Button.css';
 
 export interface Props {
+  /** button text */
   children: React.ReactNode;
+  /** button function */
   onClick: () => void;
+  /**
+   * disables onclick
+   * 
+   * @default false
+   */
   disabled?: boolean;
+  /** background color */
   bg: string;
 }
 
