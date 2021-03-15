@@ -6,7 +6,7 @@
   "devDependencies": {
     "@babel/core": "^7.1.0",
     "@storybook/addon-info": "^5.3.21",
-    "@storybook/addon-knobs": "^3.4.11",
+    "@storybook/addon-knobs": "^6.1.21",
     "@storybook/addons": "^6.0.28",
     "@storybook/react": "^6.0.28",
     "@types/react": "^17.0.3",
