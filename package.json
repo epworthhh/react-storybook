@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.1.0",
+    "@babel/core": "^7.13.10",
     "@storybook/addon-info": "^5.3.21",
     "@storybook/addon-knobs": "^3.4.11",
     "@storybook/addons": "^6.0.28",
