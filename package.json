@@ -13,12 +13,12 @@
     "awesome-typescript-loader": "^5.2.1",
     "babel-loader": "^8.2.2",
     "react-docgen-typescript-webpack-plugin": "^1.1.0",
-    "storybook-addon-jsx": "^5.4.0",
+    "storybook-addon-jsx": "^7.0.0",
     "typescript": "^3.9.9"
   },
   "dependencies": {
     "react": "^16.5.2",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.14.0"
   },
   "scripts": {
     "storybook": "start-storybook -p 6006 -c .storybook"
