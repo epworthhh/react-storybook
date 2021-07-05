@@ -13,7 +13,7 @@
     "awesome-typescript-loader": "^5.2.1",
     "babel-loader": "^8.2.2",
     "react-docgen-typescript-webpack-plugin": "^1.1.0",
-    "storybook-addon-jsx": "^7.0.0",
+    "storybook-addon-jsx": "^7.2.0",
     "typescript": "^3.9.10"
   },
   "dependencies": {
