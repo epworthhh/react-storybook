@@ -11,7 +11,7 @@
     "@storybook/addons": "^6.4.17",
     "@types/react": "^17.0.41",
     "awesome-typescript-loader": "^5.2.1",
-    "babel-loader": "^8.2.3",
+    "babel-loader": "^8.2.4",
     "react-docgen-typescript-webpack-plugin": "^1.1.0",
     "storybook-addon-jsx": "^7.2.0",
     "typescript": "^3.9.10"
