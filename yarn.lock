@@ -737,19 +737,19 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/core-client@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/core-client/-/core-client-7.0.7.tgz#247d5b36af61ec59f93d465df0e1a993819892a5"
+"@storybook/core-client@7.0.9":
+  version "7.0.9"
+  resolved "https://registry.yarnpkg.com/@storybook/core-client/-/core-client-7.0.9.tgz#a28ab73ee8490280213492d1b8f18727405315f8"
   dependencies:
-    "@storybook/client-logger" "7.0.7"
-    "@storybook/preview-api" "7.0.7"
+    "@storybook/client-logger" "7.0.9"
+    "@storybook/preview-api" "7.0.9"
 
-"@storybook/core-common@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/core-common/-/core-common-7.0.7.tgz#7401d202c3e277caa5f9033a05a95aa8df570363"
+"@storybook/core-common@7.0.9":
+  version "7.0.9"
+  resolved "https://registry.yarnpkg.com/@storybook/core-common/-/core-common-7.0.9.tgz#c44032111e47c4124c44a56e50afbdc3e023413f"
   dependencies:
-    "@storybook/node-logger" "7.0.7"
-    "@storybook/types" "7.0.7"
+    "@storybook/node-logger" "7.0.9"
+    "@storybook/types" "7.0.9"
     "@types/node" "^16.0.0"
     "@types/pretty-hrtime" "^1.0.0"
     chalk "^4.1.0"
@@ -800,14 +800,14 @@
   dependencies:
     type-fest "^2.19.0"
 
-"@storybook/docs-tools@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/docs-tools/-/docs-tools-7.0.7.tgz#d64333fe862889b664509f7eeef9f586b5c30ccd"
+"@storybook/docs-tools@7.0.9":
+  version "7.0.9"
+  resolved "https://registry.yarnpkg.com/@storybook/docs-tools/-/docs-tools-7.0.9.tgz#6013fc0da7475b26c2935b9f848b2a54256548eb"
   dependencies:
     "@babel/core" "^7.12.10"
-    "@storybook/core-common" "7.0.7"
-    "@storybook/preview-api" "7.0.7"
-    "@storybook/types" "7.0.7"
+    "@storybook/core-common" "7.0.9"
+    "@storybook/preview-api" "7.0.9"
+    "@storybook/types" "7.0.9"
     "@types/doctrine" "^0.0.3"
     doctrine "^3.0.0"
     lodash "^4.17.21"
@@ -836,9 +836,9 @@
     telejson "^7.0.3"
     ts-dedent "^2.0.0"
 
-"@storybook/node-logger@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.7.tgz#114e6d1994e0445dd9e579768bdb89adbf1055cd"
+"@storybook/node-logger@7.0.9":
+  version "7.0.9"
+  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.9.tgz#9331aab88c1f3e8fe2bd7b849592edc8dd87ed83"
   dependencies:
     "@types/npmlog" "^4.1.2"
     chalk "^4.1.0"
@@ -885,21 +885,21 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/react-dom-shim@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/react-dom-shim/-/react-dom-shim-7.0.7.tgz#c733bae46900098b494bbeb9ef5e2bc9b23cca8d"
+"@storybook/react-dom-shim@7.0.9":
+  version "7.0.9"
+  resolved "https://registry.yarnpkg.com/@storybook/react-dom-shim/-/react-dom-shim-7.0.9.tgz#5f6d05f3556fcddec89d3d44d6575462d491f0a3"
 
-"@storybook/react@^7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-7.0.7.tgz#cec5c1866cb7bcf235da4b0a3e391ef3ba5c4197"
+"@storybook/react@^7.0.9":
+  version "7.0.9"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-7.0.9.tgz#aa6fc37db38c2f835c643c284f18ffea488ed91a"
   dependencies:
-    "@storybook/client-logger" "7.0.7"
-    "@storybook/core-client" "7.0.7"
-    "@storybook/docs-tools" "7.0.7"
+    "@storybook/client-logger" "7.0.9"
+    "@storybook/core-client" "7.0.9"
+    "@storybook/docs-tools" "7.0.9"
     "@storybook/global" "^5.0.0"
-    "@storybook/preview-api" "7.0.7"
-    "@storybook/react-dom-shim" "7.0.7"
-    "@storybook/types" "7.0.7"
+    "@storybook/preview-api" "7.0.9"
+    "@storybook/react-dom-shim" "7.0.9"
+    "@storybook/types" "7.0.9"
     "@types/escodegen" "^0.0.6"
     "@types/estree" "^0.0.51"
     "@types/node" "^16.0.0"
