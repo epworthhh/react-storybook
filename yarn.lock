@@ -590,13 +590,13 @@
     qs "^6.10.0"
     telejson "^5.1.0"
 
-"@storybook/channel-postmessage@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/channel-postmessage/-/channel-postmessage-7.0.7.tgz#8b00a45f3a078946169f7222c320d8d1e17b67c2"
+"@storybook/channel-postmessage@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/channel-postmessage/-/channel-postmessage-7.0.11.tgz#f71213dee292a06a6a7f8c0518fd3f52f261792e"
   dependencies:
-    "@storybook/channels" "7.0.7"
-    "@storybook/client-logger" "7.0.7"
-    "@storybook/core-events" "7.0.7"
+    "@storybook/channels" "7.0.11"
+    "@storybook/client-logger" "7.0.11"
+    "@storybook/core-events" "7.0.11"
     "@storybook/global" "^5.0.0"
     qs "^6.10.0"
     telejson "^7.0.3"
@@ -626,9 +626,9 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/channels@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/channels/-/channels-7.0.7.tgz#3f3962be97b447752db99a78ef7beea9f94d75a4"
+"@storybook/channels@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/channels/-/channels-7.0.11.tgz#c753d37ade4b85bf5cb5a8ebaf81d535f21ee547"
 
 "@storybook/channels@7.0.9":
   version "7.0.9"
@@ -670,9 +670,9 @@
     core-js "^3.8.2"
     global "^4.4.0"
 
-"@storybook/client-logger@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/client-logger/-/client-logger-7.0.7.tgz#1f91eb2785111c94b7946bda2d32199c11045d71"
+"@storybook/client-logger@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/client-logger/-/client-logger-7.0.11.tgz#0210ec715be79a930f9d17ebff62b73fb7104337"
   dependencies:
     "@storybook/global" "^5.0.0"
 
@@ -737,19 +737,19 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/core-client@7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/core-client/-/core-client-7.0.9.tgz#a28ab73ee8490280213492d1b8f18727405315f8"
+"@storybook/core-client@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/core-client/-/core-client-7.0.11.tgz#05909f7d6561bd0c3dbdad9d95ce386fff782de5"
   dependencies:
-    "@storybook/client-logger" "7.0.9"
-    "@storybook/preview-api" "7.0.9"
+    "@storybook/client-logger" "7.0.11"
+    "@storybook/preview-api" "7.0.11"
 
-"@storybook/core-common@7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/core-common/-/core-common-7.0.9.tgz#c44032111e47c4124c44a56e50afbdc3e023413f"
+"@storybook/core-common@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/core-common/-/core-common-7.0.11.tgz#2f6ba1d3ed424de6f4738e0de31119ecae3d7d57"
   dependencies:
-    "@storybook/node-logger" "7.0.9"
-    "@storybook/types" "7.0.9"
+    "@storybook/node-logger" "7.0.11"
+    "@storybook/types" "7.0.11"
     "@types/node" "^16.0.0"
     "@types/pretty-hrtime" "^1.0.0"
     chalk "^4.1.0"
@@ -780,9 +780,9 @@
   dependencies:
     core-js "^3.8.2"
 
-"@storybook/core-events@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-7.0.7.tgz#9acb6425d0a2a3d25becc21980c2c678c6c5548e"
+"@storybook/core-events@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/core-events/-/core-events-7.0.11.tgz#9d11fc7c7f60f3450fd379476fd7ef9c7c7d556f"
 
 "@storybook/core-events@7.0.9":
   version "7.0.9"
@@ -800,14 +800,14 @@
   dependencies:
     type-fest "^2.19.0"
 
-"@storybook/docs-tools@7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/docs-tools/-/docs-tools-7.0.9.tgz#6013fc0da7475b26c2935b9f848b2a54256548eb"
+"@storybook/docs-tools@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/docs-tools/-/docs-tools-7.0.11.tgz#106e0048140f3f9a240788e6dee296be4ae16a38"
   dependencies:
     "@babel/core" "^7.12.10"
-    "@storybook/core-common" "7.0.9"
-    "@storybook/preview-api" "7.0.9"
-    "@storybook/types" "7.0.9"
+    "@storybook/core-common" "7.0.11"
+    "@storybook/preview-api" "7.0.11"
+    "@storybook/types" "7.0.11"
     "@types/doctrine" "^0.0.3"
     doctrine "^3.0.0"
     lodash "^4.17.21"
@@ -836,26 +836,26 @@
     telejson "^7.0.3"
     ts-dedent "^2.0.0"
 
-"@storybook/node-logger@7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.9.tgz#9331aab88c1f3e8fe2bd7b849592edc8dd87ed83"
+"@storybook/node-logger@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.11.tgz#cc0bfddeb52484c6cded5c717d3bd8c6357071b0"
   dependencies:
     "@types/npmlog" "^4.1.2"
     chalk "^4.1.0"
     npmlog "^5.0.1"
     pretty-hrtime "^1.0.3"
 
-"@storybook/preview-api@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/preview-api/-/preview-api-7.0.7.tgz#8f8da37418d91dd3d9009df914cb26add87a8e67"
+"@storybook/preview-api@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/preview-api/-/preview-api-7.0.11.tgz#a70453374bebb9e828646ecdd5d3ff548a4558c9"
   dependencies:
-    "@storybook/channel-postmessage" "7.0.7"
-    "@storybook/channels" "7.0.7"
-    "@storybook/client-logger" "7.0.7"
-    "@storybook/core-events" "7.0.7"
+    "@storybook/channel-postmessage" "7.0.11"
+    "@storybook/channels" "7.0.11"
+    "@storybook/client-logger" "7.0.11"
+    "@storybook/core-events" "7.0.11"
     "@storybook/csf" "^0.1.0"
     "@storybook/global" "^5.0.0"
-    "@storybook/types" "7.0.7"
+    "@storybook/types" "7.0.11"
     "@types/qs" "^6.9.5"
     dequal "^2.0.2"
     lodash "^4.17.21"
@@ -885,21 +885,21 @@
     ts-dedent "^2.0.0"
     util-deprecate "^1.0.2"
 
-"@storybook/react-dom-shim@7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/react-dom-shim/-/react-dom-shim-7.0.9.tgz#5f6d05f3556fcddec89d3d44d6575462d491f0a3"
+"@storybook/react-dom-shim@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/react-dom-shim/-/react-dom-shim-7.0.11.tgz#2474bc0cbe0e81758ca3909683a277cf98751710"
 
-"@storybook/react@^7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-7.0.9.tgz#aa6fc37db38c2f835c643c284f18ffea488ed91a"
+"@storybook/react@^7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-7.0.11.tgz#6d6760150f985a49b86301a5c911118081890bd7"
   dependencies:
-    "@storybook/client-logger" "7.0.9"
-    "@storybook/core-client" "7.0.9"
-    "@storybook/docs-tools" "7.0.9"
+    "@storybook/client-logger" "7.0.11"
+    "@storybook/core-client" "7.0.11"
+    "@storybook/docs-tools" "7.0.11"
     "@storybook/global" "^5.0.0"
-    "@storybook/preview-api" "7.0.9"
-    "@storybook/react-dom-shim" "7.0.9"
-    "@storybook/types" "7.0.9"
+    "@storybook/preview-api" "7.0.11"
+    "@storybook/react-dom-shim" "7.0.11"
+    "@storybook/types" "7.0.11"
     "@types/escodegen" "^0.0.6"
     "@types/estree" "^0.0.51"
     "@types/node" "^16.0.0"
@@ -1002,11 +1002,11 @@
     "@storybook/global" "^5.0.0"
     memoizerific "^1.11.3"
 
-"@storybook/types@7.0.7":
-  version "7.0.7"
-  resolved "https://registry.yarnpkg.com/@storybook/types/-/types-7.0.7.tgz#e42ab7e44b3d7d49f50592f0d9d03023f44af079"
+"@storybook/types@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/types/-/types-7.0.11.tgz#b4b0dfd68cf1558f10b30616997c55f37aff8c41"
   dependencies:
-    "@storybook/channels" "7.0.7"
+    "@storybook/channels" "7.0.11"
     "@types/babel__core" "^7.0.0"
     "@types/express" "^4.7.0"
     file-system-cache "^2.0.0"
