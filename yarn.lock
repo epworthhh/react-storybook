@@ -520,13 +520,13 @@
     global "^4.4.0"
     regenerator-runtime "^0.13.7"
 
-"@storybook/addons@^7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-7.0.9.tgz#fc9b1397cb39e2a78b15677b3723b996ac67b208"
+"@storybook/addons@^7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-7.0.11.tgz#339d07541a3d37cf812cce25dba9c6b2dc84c333"
   dependencies:
-    "@storybook/manager-api" "7.0.9"
-    "@storybook/preview-api" "7.0.9"
-    "@storybook/types" "7.0.9"
+    "@storybook/manager-api" "7.0.11"
+    "@storybook/preview-api" "7.0.11"
+    "@storybook/types" "7.0.11"
 
 "@storybook/api@5.3.21":
   version "5.3.21"
@@ -816,18 +816,18 @@
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/@storybook/global/-/global-5.0.0.tgz#b793d34b94f572c1d7d9e0f44fac4e0dbc9572ed"
 
-"@storybook/manager-api@7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/manager-api/-/manager-api-7.0.9.tgz#77ca5e371af2f1dc445681808529f5bf3b485962"
+"@storybook/manager-api@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/manager-api/-/manager-api-7.0.11.tgz#3ade5e8189017584a159b7f8a54bf3a86d29cbc7"
   dependencies:
-    "@storybook/channels" "7.0.9"
-    "@storybook/client-logger" "7.0.9"
-    "@storybook/core-events" "7.0.9"
+    "@storybook/channels" "7.0.11"
+    "@storybook/client-logger" "7.0.11"
+    "@storybook/core-events" "7.0.11"
     "@storybook/csf" "^0.1.0"
     "@storybook/global" "^5.0.0"
-    "@storybook/router" "7.0.9"
-    "@storybook/theming" "7.0.9"
-    "@storybook/types" "7.0.9"
+    "@storybook/router" "7.0.11"
+    "@storybook/theming" "7.0.11"
+    "@storybook/types" "7.0.11"
     dequal "^2.0.2"
     lodash "^4.17.21"
     memoizerific "^1.11.3"
@@ -944,11 +944,11 @@
     qs "^6.10.0"
     ts-dedent "^2.0.0"
 
-"@storybook/router@7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/router/-/router-7.0.9.tgz#f892fa7b1d92a7664f36f287e985d733a5db09d6"
+"@storybook/router@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/router/-/router-7.0.11.tgz#517497f03e675f06675deb77e106ccd3fa84f718"
   dependencies:
-    "@storybook/client-logger" "7.0.9"
+    "@storybook/client-logger" "7.0.11"
     memoizerific "^1.11.3"
     qs "^6.10.0"
 
@@ -993,12 +993,12 @@
     resolve-from "^5.0.0"
     ts-dedent "^2.0.0"
 
-"@storybook/theming@7.0.9":
-  version "7.0.9"
-  resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-7.0.9.tgz#88060a48c22ad72c065f175c1332d22f599f7d15"
+"@storybook/theming@7.0.11":
+  version "7.0.11"
+  resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-7.0.11.tgz#e84907d1268d91a43c0fe9f5281b3b0350916ced"
   dependencies:
     "@emotion/use-insertion-effect-with-fallbacks" "^1.0.0"
-    "@storybook/client-logger" "7.0.9"
+    "@storybook/client-logger" "7.0.11"
     "@storybook/global" "^5.0.0"
     memoizerific "^1.11.3"
 
